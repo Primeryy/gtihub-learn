@@ -1,2 +1,3 @@
-# gtihub-learn
-hahahhahahha
+关于c语言的一些学习
+
+指针数组————存放指针的数组
